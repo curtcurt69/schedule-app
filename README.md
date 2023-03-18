@@ -1,3 +1,6 @@
+# Schedule App
+
+This is a calendar based schedule application built with React, Syncfusion, and Nodejs. This app has CRUD functionality for agenda items. This was a tutorial I followed from the syncfusion website.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
